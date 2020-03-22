@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocalTest</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="bmi">BMI</string>
+    <string name="calculate_bmi">Get Tip</string>
+    <string name="tip_underweight">You are underweight, you should get more weight</string>
+    <string name="tip_normal">Your weight is perfect!</string>
+    <string name="tip_overweight">You are overweight, you should pay more attention</string>
+    <string name="tip_obese">You are obese, you should see a doctor</string>
+</resources>
